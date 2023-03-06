@@ -8,6 +8,8 @@ Aprendiendo Laravel
 - [Inicializando Git](#item2)
 - [Preparar el contenido preparado para la próxima confirmación](#item3)
 - [Archivos de Configuracion](#item4)
+- [Primer Commit](#item5)
+
 ## Instalación de Laravel con Composer ...
 <a name="item1"></a>
 >`Typee:` En Consola ...
@@ -40,5 +42,16 @@ Modificaremos el archivo `.gitignore` para incluir los archivos de configuracion
 >`Typee:` En Consola ...
 ```console
 git add .
+```
+<a name="top"></a>
+
+### Primer Commit
+<a name="item5"></a>
+
+**`Nota:` Creamos una nueva confirmación que contenga el contenido actual del índice y el mensaje de registro dado que describa los cambios.**
+
+>`Typee:` En Consola ...
+```console
+    git commit -m "Instalacion de Laravel"
 ```
 <a name="top"></a>
