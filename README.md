@@ -76,6 +76,6 @@ git add .
 
 >`Typee:` En Consola ...
 ```console
-    git remote add master "URL del Repositorio en GitHub"
+    git remote add origin "URL del Repositorio en GitHub"
 ```
 <a name="top"></a>
