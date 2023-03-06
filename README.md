@@ -10,7 +10,8 @@ Aprendiendo Laravel
 - [Archivos de Configuracion](#item4)
 - [Primer Commit](#item5)
 - [Configuración de usuario para git y github](#item6)
-- [Subimos repositorio de git a github](#item7)
+- [Establecemos conexion al repositorio](#item7)
+- [Subimos repositorio de git a github](#item8)
 
 ## Instalación de Laravel con Composer ...
 <a name="item1"></a>
@@ -71,11 +72,20 @@ git add .
 ```
 <a name="top"></a>
 
-### Subimos repositorio de git a github
+### Establecemos conexion al repositorio
 <a name="item7"></a>
 
 >`Typee:` En Consola ...
 ```console
     git remote add origin "URL del Repositorio en GitHub"
+```
+<a name="top"></a>
+
+### Subimos repositorio de git a github
+<a name="item8"></a>
+
+>`Typee:` En Consola ...
+```console
+    git push origin master
 ```
 <a name="top"></a>
